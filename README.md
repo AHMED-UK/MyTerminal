@@ -1,4 +1,4 @@
-<h1 align="center">Myterminal</h1>
+<h1 align="center">MyTerminal</h1>
 
 <p align="center">This is my personal configuration for my favorite Terminal</p>
 
